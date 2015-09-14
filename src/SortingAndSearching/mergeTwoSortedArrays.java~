@@ -1,0 +1,16 @@
+class mergeTwoSortedArrays {
+  
+  public static void main(String[] args) {
+    int a[] = {1,3,10,0,0,0,0},
+      b[] ={2,5,7,8};
+    int l = b.length;
+    al= a.length - b.length - 1,,
+      bl = b.length -1;
+      
+      for(int i = a.length
+      
+      
+      
+  }
+  
+}
